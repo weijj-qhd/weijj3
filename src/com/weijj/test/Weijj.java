@@ -3,11 +3,11 @@ package com.weijj.test;
 
 public class Weijj {
 	public static void main(String[] args) {
-		System.out.println("é²è„­è·¯é¹¿");
+		System.out.println("Â³Ã”Â·Â¹");
 		System.out.println();
 		System.out.println("");
-		System.out.println("å¼€å§‹è¿›è¡Œdevåˆ†æ”¯å¼€å‘");
+		System.out.println("¿ªÊ¼½øĞĞdev·ÖÖ§¿ª·¢");
 		System.out.println("diertiaodev");
-		System.out.println("githublingyiyonghutijiao");
+		System.out.println("diyitiaodeal");
 	}
 }
